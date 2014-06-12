@@ -263,17 +263,17 @@ commands:
 
       defaults:
         currency: EUR
-        locale: de_DE
+        locale: nl_NL
         timezone: Europe/Berlin
         use_secure: no
         use_rewrites: yes
         session_save: files
         admin_username: admin
-        admin_firstname: John
-        admin_lastname: Doe
+        admin_firstname: Rob
+        admin_lastname: Jentzema
         admin_password: password123
         admin_frontname: admin
-        admin_email: john.doe@example.com
+        admin_email: rob@wellnessbob.nl
         encryption_key:
 
   N98\Magento\Command\Database\DumpCommand:
